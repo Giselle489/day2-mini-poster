@@ -1,1 +1,27 @@
+.Giselle-L {
+  width: 40px;
+  padding: 20px;
+  border: 22px solid black;
+  margin: 19px;
+  background-color: yellow;
+ 
+}
+h1 {
+  font-size: 30px;
+  text-align: center;
+  color: pink;
+}
+
+h3 {
+  font-size: 15px;
+  text-align: center;
+  color: Green;
+}
+
+p {
+  font-size: 13px;
+  text-align: center;
+  color: Yellow;
+}
+
 
