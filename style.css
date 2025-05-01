@@ -50,27 +50,27 @@ header {
 
 /* Info Panel */
 .info-panel {
-  position: ________;
-  top: ________;
-  right: ________;
-  width: ________;
-  background-color: ________;
-  padding: ________;
-  border: 1px solid ________;
-  z-index: ________;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 90%;
+  background-color: blue;
+  padding: 25px;
+  border: 1px solid gray;
+  z-index: 1;
 }
 
 /* Paragraphs */
 p {
-  display: ________;
+  display: block;
   margin: 10px 0;
-  font-size: ________;
+  font-size: 30px;
 }
 
 /* Tags */
 .tag {
-  display: ________;
-  background-color: ________;
+  display: block;
+  background-color: blue;
   padding: 4px 10px;
   margin-right: 8px;
 }
