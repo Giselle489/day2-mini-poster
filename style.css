@@ -28,14 +28,14 @@ p {
 
 /* Fixed Header */
 header {
-  position: ________;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  background-color: ________;
-  padding: ________;
+  background-color: pink;
+  padding: 10px;
   text-align: center;
-  z-index: ________;
+  z-index: 3;
 }
 
 /* Content Container */
