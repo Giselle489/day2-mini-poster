@@ -21,7 +21,7 @@ h3 {
 p {
   font-size: 13px;
   text-align: center;
-  color: Yellow;
+  color: Green;
 }
 
 /* Day 3 Styles */
@@ -41,7 +41,7 @@ header {
 /* Content Container */
 .Giselle-L {
   position: relative;
-  background-color: yellow;
+  background-color: Green;
   padding: 15px;
   margin-top: 10px;
   height: 100px;
