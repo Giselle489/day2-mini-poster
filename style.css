@@ -24,4 +24,56 @@ p {
   color: Yellow;
 }
 
+/* Day 3 Styles */
+
+/* Fixed Header */
+header {
+  position: ________;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: ________;
+  padding: ________;
+  text-align: center;
+  z-index: ________;
+}
+
+/* Content Container */
+._________ {
+  position: ________;
+  background-color: ________;
+  padding: ________;
+  margin-top: ________;
+  height: ________;
+  overflow: auto;
+}
+
+/* Info Panel */
+.info-panel {
+  position: ________;
+  top: ________;
+  right: ________;
+  width: ________;
+  background-color: ________;
+  padding: ________;
+  border: 1px solid ________;
+  z-index: ________;
+}
+
+/* Paragraphs */
+p {
+  display: ________;
+  margin: 10px 0;
+  font-size: ________;
+}
+
+/* Tags */
+.tag {
+  display: ________;
+  background-color: ________;
+  padding: 4px 10px;
+  margin-right: 8px;
+}
+
+
 
